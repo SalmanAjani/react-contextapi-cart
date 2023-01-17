@@ -1,1 +1,1 @@
-# react-menu-cart
+# react-shopping-cart
