@@ -23,7 +23,7 @@ const Header = () => {
   return (
     <Navbar style={{ height: 80 }} className="navbar">
       <Container>
-        <Navbar.Brand>
+        <Navbar.Brand style={{ color: "#e3e3e3" }}>
           <Link to="/">Home</Link>
         </Navbar.Brand>
         {useLocation().pathname.split("/")[1] !== "cart" && (
