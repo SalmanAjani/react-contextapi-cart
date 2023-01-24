@@ -9,7 +9,7 @@ This is an e-commerce cart application built with React. Context API has been us
 - **React**
 - **ContextAPI**
 
-## 🔗 Links
+## 🔗 Link
 
 https://react-contextapi-cart.netlify.app/
 
